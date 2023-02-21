@@ -16,7 +16,7 @@
   "dependencies": {
     "@full-stack-ts/client": "*",
     "@full-stack-ts/shared": "*",
-    "@graphql-codegen/typescript": "^2.4.8",
+    "@graphql-codegen/typescript": "^3.0.1",
     "@graphql-codegen/typescript-resolvers": "^2.6.1",
     "@graphql-tools/graphql-file-loader": "^6.0.0",
     "@graphql-tools/load": "^6.0.0",
